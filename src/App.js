@@ -1,11 +1,15 @@
-import Header from "./components/Header/Header";
+
 import "./App.scss";
+import Homepage from "./Page/Homepage/Homepage";
+
+
+
 
 function App() {
   return (
 <div className='App'>
 
-  <Header />
+  <Homepage />
   
 </div>
   );
