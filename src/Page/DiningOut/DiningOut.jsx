@@ -3,7 +3,7 @@ import "./DiningOut.scss";
 
 const DiningOut = () => {
     return (
-        <div>DiningOut</div>
+        <div>Dining Out</div>
     );
 }
 

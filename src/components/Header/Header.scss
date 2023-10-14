@@ -1,90 +1,94 @@
-
 .header {
     width: 100%;
-    background-image: url("../../assets/images/BackGround.png");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 65vh;
-
-    nav {
-        display: flex;
-        align-items: center;
-        justify-content:space-evenly;
-        padding: 15px 10px;
-
-
-        span {
-            color: white;
-            font-style: 16px;
-        }
-        
-    
-        .right {                             // this indicates that header ke andar nav and nav ke andar right naam ki class
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-    
-            span {
-                color: white;
-                font-style: 18px;
-            }
-        }
-    }
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
 }
 
-.header > .headerContent {
-    position: absolute;
-    width: 100%;
-    top: 30%;
+.header-logo {
+    height: 27px;
+    min-width: 140px;
+    margin-right: 24px;
+}
+
+.header-right {
     display: flex;
-    flex-direction: column;
+    flex: 1;
     align-items: center;
-    justify-content: center;
-    gap: 20px;
+    justify-content: space-between;
+    height: 72px;
+}
 
-    img {
-        max-width: 400px;
-    }
+.header-location-search-container {
+    height: 54px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+    border: 1px solid rgb(232,232,232);
+    width: 70%;
+}
 
-    h3 {
-        color: white;
-        font-size: 2rem;
-        font-weight: lighter;
-        letter-spacing: 0.12rem;
-    }
+.location-wrapper {
+    display: flex;
+    flex: 1;
+    padding: 0px 10px;
+    justify-content: space-between;
+}
 
-    .input {
-        min-width: 50%;
-        height: 55px;
-        border: none;
-        background-color: white;
-        border-radius: 5px;
-        overflow: hidden;
-        display: flex;
-        align-items: center;
+.location-icon-name {
+    display: flex;
+    color: #828282;
+}
 
-        select {
-            flex: 1;
-            border: none;
-            outline: none;
-            scroll-behavior: smooth;
-            font-size: 16px;
-            font-weight: normal;
-            color: gray;
-            padding: 8px;
-        }
+.location-icon {
+    color: red;
+    font-size: 17px;
+    margin-right: 9px;
+}
 
-        input {
-            flex: 2;
-            border: none;
-            outline: none;
-            padding: 8px;
+.location-seperator {
+    height: 20px;
+    border: 0.5px solid rgb(207, 207, 207);
+}
 
-            &::placeholder {
-                font-size: 16px;
-                font-weight: normal;
-            }
-        }
-    }
+.header-search-bar {
+    display: flex;
+    flex: 2;
+}
+
+.header-search-icon {
+    font-size: 20px;
+    color: #828282;
+    margin: 0px 12px;
+}
+
+.header-search-input {
+    border: none;
+    outline: none;
+    width: 60%;
+    font-size: 14px;
+}
+
+.header-profile-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 13%;
+    align-items: center;
+}
+
+.header-profile-image {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.header-username {
+    font-size: 16px;
+    font-weight: 550;
+}
+
+.header-profile-options-icon {
+    font-size: 14px;
+    font-weight: 800;
 }
