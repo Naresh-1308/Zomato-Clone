@@ -1,5 +1,9 @@
 import React from 'react';
 import "./DeliveryCollections.scss";
+import PreviousArrow from '../../../components/Carousel/PreviousArrow';
+import NextArrow from '../../../components/Carousel/NextArrow';
+import Slider from 'react-slick';
+import DeliveryItem from './DeliveryItem/DeliveryItem';
 
 
 const deliveryItems = [
@@ -31,7 +35,7 @@ const deliveryItems = [
     {
         id: 6,
         title: "Chicken",
-        cover: "hhttps://b.zmtcdn.com/data/dish_images/197987b7ebcd1ee08f8c25ea4e77e20f1634731334.png",
+        cover: "https://b.zmtcdn.com/data/dish_images/197987b7ebcd1ee08f8c25ea4e77e20f1634731334.png",
     },
     {
         id: 7,
@@ -67,12 +71,11 @@ const deliveryItems = [
 ];
 
 const settings = {
-    dots: true,
-    infinite: true,
-    slidesToShow: 3,
+    infinite: false,
+    slidesToShow: 6,
     slidesToScroll: 1,
-    nextArrow:
-    prevArrow:
+    nextArrow: <NextArrow />,
+    prevArrow: <PreviousArrow />
 };
 
 const DeliveryCollections = () => {
@@ -82,6 +85,11 @@ const DeliveryCollections = () => {
                 <div className='collection-title'>
                     Eat what makes you happy 
                 </div>
+                <Slider {...settings}>
+                    {deliveryItems.map((item)=>{
+                        return <DeliveryItem item = {item} />;
+                    })}
+                </Slider>
             </div>
         </div>
     );

@@ -1,8 +1,21 @@
 import React from 'react';
 
-const PreviousArrow = () => {
+const PreviousArrow = (props) => {
+    const { className, style, onClick } = props;
     return (
-        <div>PreviousArrow</div>
+        <div className = {className} 
+            style = {{ 
+                ...style,
+                background:  "white", 
+                borderRadius: "50%", 
+                display: "flex", 
+                justifyContent: "center",
+                alignItems: "center",
+                padding: "4px" 
+            }} 
+            onClick = {onClick}>
+            PreviousArrow
+        </div>
     );
 };
 
