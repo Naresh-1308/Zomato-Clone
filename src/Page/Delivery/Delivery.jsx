@@ -3,6 +3,8 @@ import "./Delivery.scss";
 import Filters from '../../components/Filters/Filters';
 import DeliveryCollections from './Delivery Collections/DeliveryCollections';
 import TopBrands from './Top Brands/TopBrands';
+import Explore from './Explore Section/Explore';
+import { restaurants } from '../../Data/Restaurants';
 
 
 const deliveryFilters = [
@@ -34,6 +36,9 @@ const deliveryFilters = [
     },
 ];
 
+
+const restaurantList = restaurants;
+
 const Delivery = () => {
     return (
         <div>
@@ -43,6 +48,7 @@ const Delivery = () => {
 
             <DeliveryCollections />
             <TopBrands />
+            <Explore list = {restaurantList} collectionName = 'Delivery Restaurants in Jaipur' />
         </div>
     );
 };
