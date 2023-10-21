@@ -27,9 +27,11 @@ const Explore_Card = ({ restaurant }) => {
             </div>
             <div className="restaurant-row">
                 <div className='restuarant-name'> {name} </div>
+                
                 {rating &&
                     <div className='restaurant-rating absolute-center'> {rating} <i className="fi fi-rr-star absolute-center"></i> </div> 
                 }
+                
             </div>
             <div className="restaurant-row">
                 {cuisine.length && 

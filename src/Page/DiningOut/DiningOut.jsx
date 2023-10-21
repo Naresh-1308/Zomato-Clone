@@ -94,7 +94,7 @@ const DiningOut = () => {
             <div className="max-width">
                 <Filters filterList = {diningFilters} />
             </div>
-
+        
             <Explore list = {diningList} collectionName= "Best Dining Restaurants Near You in Jaipur" />
         </div>
     );

@@ -106,14 +106,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -268,14 +268,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -415,14 +415,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 25,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "25% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 25,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "25% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -572,14 +572,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 15,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "15% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 15,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "15% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -719,14 +719,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -881,14 +881,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 20,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "20% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 20,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "20% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -1035,14 +1035,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -1334,14 +1334,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -1486,14 +1486,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 15,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "15% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 15,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "15% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -1648,14 +1648,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 25,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "25% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 25,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "25% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -1800,14 +1800,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 25,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "25% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 25,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "25% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -1963,14 +1963,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -2706,14 +2706,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 25,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "25% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 25,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "25% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -3001,14 +3001,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 20,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "20% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 20,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "20% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -3163,14 +3163,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -3310,14 +3310,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 10,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "10% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 10,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "10% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -3457,14 +3457,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 25,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "25% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 25,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "25% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -3619,14 +3619,14 @@ export const NightLife = [
                 }
             },
             "order": [],
-            "gold": {
-                "instant": 35,
-                "welcome_offer": false,
-                "gold_offer": true,
-                "text": "Flat",
-                "offerValue": "35% OFF",
-                "isGoldIcon": true
-            },
+            // "gold": {
+            //     "instant": 35,
+            //     "welcome_offer": false,
+            //     "gold_offer": true,
+            //     "text": "Flat",
+            //     "offerValue": "35% OFF",
+            //     "isGoldIcon": true
+            // },
             "takeaway": [],
             "cardAction": {
                 "text": "",
@@ -3782,14 +3782,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 10,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "10% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -3944,14 +3944,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 30,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "30% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 30,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "30% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -4096,14 +4096,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 10,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "10% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -4271,14 +4271,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 20,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "20% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 20,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "20% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -4428,14 +4428,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 20,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "20% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 20,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "20% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -4590,14 +4590,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 15,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "15% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 15,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "15% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -4747,14 +4747,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 10,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "10% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -4898,14 +4898,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 10,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "10% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -5040,14 +5040,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 15,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "15% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 15,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "15% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -5197,14 +5197,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 10,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "10% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -5364,14 +5364,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 20,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "20% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 20,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "20% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
@@ -5526,14 +5526,14 @@ export const NightLife = [
             }
         },
         "order": [],
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        },
+        // "gold": {
+        //     "instant": 10,
+        //     "welcome_offer": false,
+        //     "gold_offer": true,
+        //     "text": "Flat",
+        //     "offerValue": "10% OFF",
+        //     "isGoldIcon": true
+        // },
         "takeaway": [],
         "cardAction": {
             "text": "",
