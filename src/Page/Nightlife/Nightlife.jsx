@@ -2,6 +2,16 @@ import React from 'react';
 import "./Nightlife.scss";
 import Filters from '../../components/Filters/Filters';
 
+const collectionList = [
+    {
+        id: 1,
+        title: "Best Bars & Pubs",
+        cover: "https://b.zmtcdn.com/data/collections/eb98e6031b99…6a82712b99067f0_1696923781.png",
+        places: "20 places",
+    }
+];
+
+
 const nightlifeFilters = [
     {
         id: 1,
@@ -14,15 +24,6 @@ const nightlifeFilters = [
     },
     {
         id: 3,
-        // icon: ,
-        title: "distance",
-    },
-    {
-        id: 4,
-        title: "Pure Veg",
-    },
-    {
-        id: 5,
         title: "Pubs and Bars",
     },
 ];
@@ -31,6 +32,8 @@ const nightlifeFilters = [
 const Nightlife = () => {
     return (
         <div>
+
+
             <div className="max-width">
                 <Filters filterList = {nightlifeFilters} />
             </div>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <div> Made by Naresh </div>
+        <div className='absolute-center'> Made by Naresh </div>
     );
 }
 
